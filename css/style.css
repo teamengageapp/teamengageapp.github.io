@@ -3677,9 +3677,9 @@ h6 {
 ============================================================================================ */
 
 .download_app_area {
-    background-image: -moz-linear-gradient(0deg, #2fa6d8 0%, #2fa6d8 100%);
-    background-image: -webkit-linear-gradient(0deg, #2fa6d8 0%, #2fa6d8 100%);
-    background-image: -ms-linear-gradient(0deg, #2fa6d8 0%, #2fa6d8 100%);
+    background-image: -moz-linear-gradient(0deg, #2fa6d8 0%, #2f5cd8 100%);
+    background-image: -webkit-linear-gradient(0deg, #2fa6d8 0%, #2f5cd8 100%);
+    background-image: -ms-linear-gradient(0deg, #2fa6d8 0%, #2f5cd8 100%);
 }
 
 .app_inner {
@@ -3720,10 +3720,10 @@ h6 {
 }
 
 .app_btn_area .app_btn:hover .media .d-flex i {
-    background: -webkit-linear-gradient(left, #bb2bff, #7349fb);
-    background: -webkit-gradient(linear, left top, right top, from(#bb2bff), to(#7349fb));
-    background: -o-linear-gradient(left, #bb2bff, #7349fb);
-    background: linear-gradient(left, #bb2bff, #7349fb);
+    background: -webkit-linear-gradient(left, #2fa6d8, #2f5cd8);
+    background: -webkit-gradient(linear, left top, right top, from(#2fa6d8), to(#2f5cd8));
+    background: -o-linear-gradient(left, #2fa6d8, #2f5cd8);
+    background: linear-gradient(left, #2fa6d8, #2f5cd8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -4059,7 +4059,7 @@ h6 {
 /*============== footer-area css ===============*/
 
 .footer-area {
-    background: #222222;
+    background: #062633;
 }
 
 .single-footer-widget p {
